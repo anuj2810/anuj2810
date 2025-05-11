@@ -19,7 +19,7 @@
   <img src="https://media.istockphoto.com/id/1803992649/vector/software-development-coding-process-concept-programming-testing-cross-platform-code-app-on.jpg?s=2048x2048&w=is&k=20&c=4ZEBBpVNk7-iCWg8Yc2wiUQ7yMbTSDnEOQ5VfRWv-R8=" alt="Software Engineer" width="100%" style="border-radius: 10px;" />
   
   <br><br>
-  <a href="portfolio-anuj-shubham-aryas-projects.vercel.app">
+  <a href="https://portfolio-anuj-shubham-aryas-projects.vercel.app/">
     <img src="https://img.shields.io/badge/My%20Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio" />
   </a>
 </td>
